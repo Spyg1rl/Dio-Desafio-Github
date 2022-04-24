@@ -2,5 +2,10 @@
 Repositório criado para o desafio de Projeto.
 
 ## Links Úteis
-[Sintaxe Basica Markdown](https://www.markdiwnguide.org/basic-syntax/)
+
+[Cursos Gratuitos no Senac](https://psg.rj.senac.br/Paginas/Login.aspx)
+
+[Cursos Gratuitos no Senai](https://loja.mundosenai.com.br/rj/searchbar/index/result/modalidade/27/)
+
+
 
